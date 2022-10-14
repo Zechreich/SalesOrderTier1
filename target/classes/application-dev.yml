@@ -1,0 +1,13 @@
+#Profile: dev
+restclient:
+  url:
+    boardingtest-client: https://boardingtest.com
+    reqres-client: https://reqres.in/api
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db_chris
+    username: postgres
+    password: postgres
+  flyway:
+    enabled: true
