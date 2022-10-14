@@ -15,7 +15,3 @@ Msrc/main/java/org/ait/project/boardingtest/modules/model/entity/Customer.java,
 Lsrc/main/java/org/ait/project/boardingtest/modules/model/entity/Product.java,1\3\133589a4f441c6f3ce1689a1975d41781a2f8147
 Å
 Qsrc/main/java/org/ait/project/boardingtest/modules/dto/request/SalesOrderReq.java,d\d\dd5a2c329596e4aea7e90ac8d338157e21227065
-Ö
-Usrc/main/java/org/ait/project/boardingtest/modules/transform/SalesOrderTransform.java,a\5\a53a8220e84393a5c929c8c2eb25a1b2bc40780c
-É
-Ssrc/main/java/org/ait/project/boardingtest/modules/controller/SellerController.java,5\8\5821d51df4d23e8c8ad1a84fa5eb0b54b24e080f
